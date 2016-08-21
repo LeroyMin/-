@@ -1,10 +1,10 @@
 ##-主要功能##
 * 运用VFD E系列变频器集成的PLC功能；
 * 完成逻辑控制；
-* 电机驱动；
-  说明：由于VFD E系列变频器内置小型PLC，因此，难点在于如何将程序写入变频器和怎么利用变频器内部PLC实现两者的功能。<br>
-[台达官方介绍](http://www.deltagreentech.com.cn/productlv4-571-164.html/)
----
+* 电机驱动；<br>
+  说明：由于VFD-E系列变频器内置小型PLC，因此，难点在于如何将程序写入变频器和怎么利用变频器内部PLC实现两者的功能。<br>
+[VFD-E系列变频器台达官方介绍](http://www.deltagreentech.com.cn/productlv4-571-164.html/)<br>
+------
   <h1>目录<h1>
 - 系统总体设计
 * 系统总体硬件方案
